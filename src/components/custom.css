@@ -1,0 +1,9 @@
+.CircularProgressbar-path {
+  stroke: #ff8831;
+  stroke-linecap: round;
+  transform: rotate(0.25turn);
+  transform-origin: center center;
+}
+.CircularProgressbar-trail {
+  box-shadow: 0px 0px 44px rgba(34, 37, 169, 0.1);
+}
